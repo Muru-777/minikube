@@ -13,3 +13,9 @@ brew install minikube
 minikube version
 
 minikube start
+
+minikube status
+
+minikube stop
+
+minikube delete
