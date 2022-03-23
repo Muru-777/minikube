@@ -12,10 +12,11 @@ brew install minikube
 
 minikube version
 
-minikube start
+minikube start --kubernetes-version v1.20.7
 
 minikube status
 
 minikube stop
 
 minikube delete
+
