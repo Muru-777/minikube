@@ -1,0 +1,15 @@
+Install kubectl:
+ brew install kubectl
+ 
+Install hypervisor:
+ brew install hyperkit
+ 
+To check packages are installed:
+ brew list
+
+Install minkube
+brew install minikube
+
+minikube version
+
+minikube start
